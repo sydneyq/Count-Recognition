@@ -2,7 +2,7 @@
 Motion and image detection project! Getting the machine to recognize and track hands through a webcam.
 
 ### Tools
-* Python3
+* Python 3.8
 * OpenCV
 
 ### Sources
